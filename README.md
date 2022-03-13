@@ -2,6 +2,9 @@
 
 I'm lazy @u@
 
+## Demo
+[Demo Page](https://react-startup-with-vite-template.vercel.app/)
+
 ## What Does This Repo Do?
 
 ### 1️⃣ Packages
